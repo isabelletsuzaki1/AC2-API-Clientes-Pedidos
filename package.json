@@ -1,0 +1,12 @@
+{
+  "name": "ac2-api-clientes-pedidos",
+  "version": "1.0.0",
+  "description": "API REST com Express para clientes e pedidos em memória",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
