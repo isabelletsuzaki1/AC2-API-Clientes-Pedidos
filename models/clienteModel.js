@@ -1,4 +1,4 @@
-// Os dados permanecem em memória enquanto o servidor estiver ligado.
+
 const clientes = [
   {
     id: 1,
